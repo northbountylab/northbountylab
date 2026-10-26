@@ -1,16 +1,23 @@
-## Hi there 👋
+# NorthBounty Lab 🎮🔒
+### PS5 Security Research Lab | Martil, MA 🇲🇦
 
-<!--
-**northbountylab/northbountylab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Research Only. No piracy. No illegal tools.
 
-Here are some ideas to get you started:
+I'm a security researcher focused on **PS5 / 14.xx Kernel / WebKit / FreeBSD** internals.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🧠 Focus Areas
+- PS5 Usermode & Kernel Research
+- WebKit Exploitation
+- FreeBSD Internals
+- Reverse Engineering (Ghidra / IDA)
+
+#### 🛠️ Lab
+- Location: Martil, Tétouan - Morocco
+- Setup: PS5 Testkit | IDA | Ghidra
+- Languages: C / C++ / JS / Python
+
+#### ⚠️ Disclaimer
+All research is for **educational purposes only**. I do not distribute exploits, pirated games, or tools that violate Sony ToS.
+
+---
+**Find me:** [X / Twitter](https://x.com/NorthBounty_Lab) | Martil, MA
