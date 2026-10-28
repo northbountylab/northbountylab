@@ -12,7 +12,7 @@ I'm a security researcher focused on **PS5 / 14.xx Kernel / WebKit / FreeBSD** i
 - Reverse Engineering (Ghidra / IDA)
 
 #### 🛠️ Lab
-- Location: Martil, Tétouan - Morocco
+- Location: Martil
 - Setup: PS5 Testkit | IDA | Ghidra
 - Languages: C / C++ / JS / Python
 
