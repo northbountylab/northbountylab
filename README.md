@@ -1,5 +1,5 @@
 # NorthBounty Lab 🎮🔒
-### PS5 Security Research Lab | Martil, MA 🇲🇦
+### PS5 Security Research Lab | Martil, 
 
 > Research Only. No piracy. No illegal tools.
 
